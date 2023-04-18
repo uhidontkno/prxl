@@ -1,0 +1,40 @@
+
+.prog {  width: 135px; height:28px;
+  background-color:#aaa; color:black;}
+.prog * {color:black;}
+.prog-1 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.25) 10%, rgba(0,0,0,0.5) 10%);
+  color:white !important;
+}
+.prog-2 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.35) 20%, rgba(0,0,0,0.5) 20%);
+  color:white !important;
+}
+.prog-3 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.46) 30%, rgba(0,0,0,0.5) 30%);
+  color:white !important;
+}
+.prog-4 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.57) 40%, rgba(0,0,0,0.5) 40%);
+  color:white !important;
+}
+.prog-5 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.67) 50%, rgba(0,0,0,0.5) 50%);
+}
+.prog-6 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.77) 60%, rgba(0,0,0,0.5) 60%);
+}
+.prog-7 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.88) 70%, rgba(0,0,0,0.5) 70%);
+}
+.prog-8 {
+  background: linear-gradient(90deg, rgba(5,238,0,0.9) 80%, rgba(0,0,0,0.5) 80%);
+}
+.prog-9 {
+  background: linear-gradient(90deg, rgba(5,238,0,1) 90%, rgba(0,0,0,0.5) 90%);
+}
+.prog-10 {
+  background: linear-gradient(90deg, rgba(5,238,0,1) 100%, rgba(0,0,0,0.5) 100%);
+}
+#p1 {position:relative;}
+span {margin:0 !important; display:inline-block !important;}
